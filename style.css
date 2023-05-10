@@ -177,7 +177,7 @@ h2 {
     transition: box-shadow 0.1s ease-in-out;
     /* border: 10px solid rgb(247, 239, 239); */
     border: 8px solid rgb(251, 247, 247);
-    width: 247px;
+    width: 245px;
 }
 
 .item1:hover {
